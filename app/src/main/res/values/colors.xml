@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_light">#2196F3</color>
+    <color name="primaryContainer_light">#BBDEFB</color>
+    <color name="onPrimary_light">#FFFFFF</color>
+    <color name="secondary_light">#FF4081</color>
+    <color name="secondaryContainer_light">#FFD1E3</color>
+    <color name="onSecondary_light">#FFFFFF</color>
+    <color name="tertiary_light">#4CAF50</color>
+    <color name="tertiaryContainer_light">#C8E6C9</color>
+    <color name="onTertiary_light">#FFFFFF</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surfaceVariant_light">#F5F5F5</color>
+    <color name="onSurface_light">#000000</color>
+    <color name="onSurfaceVariant_light">#666666</color>
+    <color name="error_light">#F44336</color>
+    <color name="onError_light">#FFFFFF</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="onBackground_light">#000000</color>
+
+    <color name="primary_dark">#64B5F6</color>
+    <color name="primaryContainer_dark">#0D47A1</color>
+    <color name="onPrimary_dark">#000000</color>
+    <color name="secondary_dark">#FF80AB</color>
+    <color name="secondaryContainer_dark">#880E4F</color>
+    <color name="onSecondary_dark">#000000</color>
+    <color name="tertiary_dark">#81C784</color>
+    <color name="tertiaryContainer_dark">#1B5E20</color>
+    <color name="onTertiary_dark">#000000</color>
+    <color name="surface_dark">#121212</color>
+    <color name="surfaceVariant_dark">#1E1E1E</color>
+    <color name="onSurface_dark">#FFFFFF</color>
+    <color name="onSurfaceVariant_dark">#999999</color>
+    <color name="error_dark">#EF9A9A</color>
+    <color name="onError_dark">#000000</color>
+    <color name="background_dark">#121212</color>
+    <color name="onBackground_dark">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="primary">#6C63FF</color>
+    <color name="primaryDark">#5A52D5</color>
+    <color name="secondary">#FF6584</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#F5F7FA</color>
+</resources>
